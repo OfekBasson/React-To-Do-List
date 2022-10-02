@@ -1,0 +1,14 @@
+.task-container {
+    background-color: #D0B8A8;
+    width: 80%;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+    margin: 3px;
+}
+
+.task-description {
+    color: #6e6174;
+}

@@ -1,0 +1,12 @@
+.ButtonsCard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  ;
+  height: 56.5px;
+  padding: 0 10px 0 10px;
+  border-radius: 5px;
+  background-color: #DFD3C3;
+  margin-bottom: 10px;
+}
